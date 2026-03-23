@@ -1,4 +1,4 @@
-<img src="https://files.catbox.moe/q4pv1i.gif" width="200" />
+<img src="https://files.catbox.moe/q4pv1i.gif" align="right" width="200" />
 
 # Launchpad X Scale Sync for Ableton Live 12
 
