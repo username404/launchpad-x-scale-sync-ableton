@@ -2,13 +2,13 @@
 
 <img src="https://files.catbox.moe/q4pv1i.gif" align="right" width="200" />
 
-# Launchpad X Scale Sync for Ableton Live 12
+<h1 class="hover-underline">Launchpad X Scale Sync for Ableton Live 12</h1>
 
 Play Ableton Live scales on Launchpad X and automatically synchronize the controller scale mode with the Ableton Live Global Scale.
 
 LaunchpadX_Scale2Sync is an Ableton Live Remote Script that keeps the scale and key settings synchronized between Novation Launchpad X and Ableton Live 12.
 
-## Problem
+<h1 class="hover-underline">Problem</h1>
 
 Launchpad X scale mode and Ableton Live Global Scale are not synchronized by default.
 
