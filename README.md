@@ -1,3 +1,5 @@
+<img src="https://files.catbox.moe/q4pv1i.gif" width="200" />
+
 # Launchpad X Scale Sync for Ableton Live 12
 
 Play Ableton Live scales on Launchpad X and automatically synchronize the controller scale mode with the Ableton Live Global Scale.
@@ -58,4 +60,3 @@ Current version
 The script is available on Gumroad:
 
 [https://cyberwanderer.gumroad.com/l/LaunchpadX_Scale2Sync](https://cyberwanderer.gumroad.com/l/LaunchpadX_Scale2Sync)
-
