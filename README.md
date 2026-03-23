@@ -57,4 +57,5 @@ Current version
 
 The script is available on Gumroad:
 
-[https://cyberwanderer.gumroad.com/l/LaunchpadX_Scale2Sync](url)
+[https://cyberwanderer.gumroad.com/l/LaunchpadX_Scale2Sync](https://cyberwanderer.gumroad.com/l/LaunchpadX_Scale2Sync)
+
