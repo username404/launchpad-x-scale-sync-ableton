@@ -2,7 +2,7 @@
 
 Play Ableton Live scales on Launchpad X and automatically synchronize the controller scale mode with the Ableton Live Global Scale.
 
-LaunchpadX Scale2Sync is an Ableton Live Remote Script that keeps the scale and key settings synchronized between Novation Launchpad X and Ableton Live 12.
+LaunchpadX_Scale2Sync is an Ableton Live Remote Script that keeps the scale and key settings synchronized between Novation Launchpad X and Ableton Live 12.
 
 ## Problem
 
@@ -14,7 +14,7 @@ Musicians often have to manually match the scale between the controller and the 
 
 ## Solution
 
-LaunchpadX Scale2Sync automatically synchronizes Launchpad X Note Mode with the Ableton Live Global Scale.
+LaunchpadX_Scale2Sync automatically synchronizes Launchpad X Note Mode with the Ableton Live Global Scale.
 
 When the project loads, the controller is already configured with the correct scale.
 
